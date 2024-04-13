@@ -6,3 +6,6 @@
 private String name;
 System.out.println("Hola" + name)
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
